@@ -9,12 +9,12 @@ To install the todo list first clone this repostiory, then run npm install.
 ## Running the simulator
 The run command is used to run a new simulation. The command has six required paramaters:
 
-add - add a todo to the list (string)
-edit - edit a todo (integer greater than zero) (string)
-delete - delete a todo (integer greater than zero)
-list - list all todos in the list
-reset - empty the list
-a todo - the todo task (string)
-index - the number of the todo in the list (integer greater than or equal to zero)
+add - add a todo to the list (string)<br />
+edit - edit a todo (integer greater than zero) (string)<br />
+delete - delete a todo (integer greater than zero)<br />
+list - list all todos in the list<br />
+reset - empty the list<br />
+a todo - the todo task (string)<br />
+index - the number of the todo in the list (integer greater than or equal to zero)<br />
 
 To get more information about the commnad line interface run node app.js --help.
