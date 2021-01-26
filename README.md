@@ -1,12 +1,15 @@
 # Todo application
+
 Todo is an application that allows the user to add, edit and delete a todo task from a list of todos. You can also list all the available todos and reset the list.
 
 The Todo is written in Node.js together with Commander.
 
 ## Installing the application
+
 To install the application first clone this repostiory, then run `npm install`.
 
 ## Running the application
+
 You interact with the application via the command line interface.
 The available commands are:
 

@@ -1,10 +1,10 @@
-'use strict';
+"use strict";
 
-const writeToDos = require('../functions/writeToDos');
+const writeToDos = require("../functions/writeToDos");
 
-module.exports = function(index, toDo) {
+module.exports = function (index, toDo) {
   const toDos = [];
   writeToDos(toDos, () => {
-    console.log('The to-dos were reset.');
+    console.log("The to-dos were reset.");
   });
 };
